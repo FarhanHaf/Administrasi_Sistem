@@ -26,8 +26,14 @@ Bukti user telah masuk grup
 ![3.3](images/3%20bukti%20masuk%20grup.png)
 
 
-NO 4)
+NO 4) Membuat konfigurasi reject and drop pada webmin
+![4](images/4%20reject%20drop.png)
 
+Menampilkan connection lost setelah apply configuration
+![4.2](images/4%20apply%20configurassi.png)
+
+Melakukan ping ke ip setelah reject and drop
+![4.3](images/4%20ping%20setelah%20reject%20n%20drop.png)
 
 NO 5)
 Melakukan Perintah crontab -e untuk membuat perintah otomatis ping ke filkom.ub.ac.id setiap 4 menit
